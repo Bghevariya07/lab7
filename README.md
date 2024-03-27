@@ -8,7 +8,7 @@
 
 * *Date Created*: 25 MAR 2024
 * *Last Modification Date*: 25 MAR 2024
-* *Lab URL*: <https://65f8e3ab98bea84657951dbd--effulgent-haupia-a65433.netlify.app/>
+* *Lab URL*: <https://spiffy-praline-5b501d.netlify.app/>
 * *Git URL*: <https://git.cs.dal.ca/sukhadia/lab7>
 
 
