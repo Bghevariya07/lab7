@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import './Login.css';
 
 const Login = ({ handleSubmit, handleChange, formData, errors }) => {
